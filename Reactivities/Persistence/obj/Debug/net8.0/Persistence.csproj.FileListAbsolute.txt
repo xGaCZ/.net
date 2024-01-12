@@ -1,0 +1,30 @@
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CopyComplete
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\karol\Desktop\Nowy folder (2)\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+V:\Projekty\.net\Reactivities\Persistence\bin\Debug\net8.0\Persistence.deps.json
+V:\Projekty\.net\Reactivities\Persistence\bin\Debug\net8.0\Persistence.dll
+V:\Projekty\.net\Reactivities\Persistence\bin\Debug\net8.0\Persistence.pdb
+V:\Projekty\.net\Reactivities\Persistence\bin\Debug\net8.0\Domain.dll
+V:\Projekty\.net\Reactivities\Persistence\bin\Debug\net8.0\Domain.pdb
+V:\Projekty\.net\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+V:\Projekty\.net\Reactivities\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+V:\Projekty\.net\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+V:\Projekty\.net\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+V:\Projekty\.net\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+V:\Projekty\.net\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CopyComplete
+V:\Projekty\.net\Reactivities\Persistence\obj\Debug\net8.0\Persistence.dll
+V:\Projekty\.net\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+V:\Projekty\.net\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
+V:\Projekty\.net\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
